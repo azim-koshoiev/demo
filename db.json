@@ -1,14 +1,14 @@
 {
-  "publications": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "fake_publications":
+  {https://github.com/azim-koshoiev/demo/blob/master/db.json
+    "success": true,
+    "data": {
+      "subscriptions": [
+        {
+          "id": 10,
+          "query": "(And.Hidden.N._.Mileage.range(70000..)._.CarType.Y.)"
+        }
+      ]
+    }
   }
 }
