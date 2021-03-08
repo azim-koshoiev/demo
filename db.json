@@ -1,14 +1,13 @@
 {
-  "fake_publications":
-  {https://github.com/azim-koshoiev/demo/blob/master/db.json
-    "success": true,
-    "data": {
-      "subscriptions": [
-        {
-          "id": 10,
-          "query": "(And.Hidden.N._.Mileage.range(70000..)._.CarType.Y.)"
+    "fake_publications": {
+        "success": true,
+        "data": {
+            "subscriptions": [
+                {
+                    "id": 10,
+                    "query": "(And.Hidden.N._.Mileage.range(70000..)._.CarType.Y.)"
+                }
+            ]
         }
-      ]
     }
-  }
 }
